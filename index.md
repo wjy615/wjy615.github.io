@@ -15,7 +15,7 @@
       <p><b>地址：宁波市鄞州区钱湖南路1号浙大宁波理工学院，20幢216，邮编315100</b></p>
     </td>
     <td width="25%">
-      <img src="/zjz.jpg" width="100%">      % 插入证件照代码
+      <img src="/zjz.jpg" width="100%">      
     </td>
   </tr>
 </table>
