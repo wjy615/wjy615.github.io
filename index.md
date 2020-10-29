@@ -19,8 +19,8 @@
 
 ### 信号与系统实践
 
-  - [作业](https://github.com/wjy615/github-test)：项目的简要说明，Star和Fork数多的可以注明
-
+  - [实验作业](https://github.com/wjy615/github-test)
+  
 ### 项目研究
 
 ### 个人成果
