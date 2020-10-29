@@ -19,7 +19,7 @@
 
 ### 信号与系统实践
 
-<a class="作业" href="https://github.com/wjy615/github-test></a>
+  - [STU](https://github.com/wjy615/github-test)：项目的简要说明，Star和Fork数多的可以注明
 
 ### 项目研究
 
