@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Junyi Wu's Page
 
 ### 个人信息
 
